@@ -243,44 +243,6 @@ ul li:hover {
   text-decoration: underline;
 }
 
-/* Resume Section */
-.resume-section {
-  text-align: center;
-  background: #f9f9f9;
-  padding: 60px 20px;
-  border-radius: 10px;
-  margin-bottom: 60px;
-  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-}
-
-.resume-section h2 {
-  font-size: 28px;
-  margin-bottom: 15px;
-}
-
-.resume-section p {
-  font-size: 16px;
-  margin-bottom: 20px;
-  color: #444;
-}
-
-.resume-btn {
-  background: #4cafef;
-  color: #fff;
-  padding: 12px 25px;
-  border-radius: 8px;
-  text-decoration: none;
-  font-weight: bold;
-  font-size: 16px;
-  transition: background 0.3s, transform 0.3s, box-shadow 0.3s;
-}
-
-.resume-btn:hover {
-  background: #2196f3;
-  transform: scale(1.05);
-  box-shadow: 0 4px 12px rgba(33,150,243,0.4);
-}
-
 /* Footer */
 footer {
   background: #111;
